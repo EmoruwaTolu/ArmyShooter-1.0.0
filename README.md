@@ -10,4 +10,4 @@
 - The problem of it running on Macbooks is likely to still exist however, as the program makes use of 'Forms' that do not seem to be compatible with 
   the macOS.
 - A level conclusion for Rennes will hopefully be made shortly after.
-- A .png files containig screenshots of what the program is meant to look like when ran are included in the repository.(WhenRennesOpened)
+- A .png files containig screenshots of what the program is meant to look like when ran are included in the repository.(WhenRennesOpened & WhileLevelBeingPlayed)
